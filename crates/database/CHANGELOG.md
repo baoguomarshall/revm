@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [12.1.0](https://github.com/baoguomarshall/revm/compare/revm-database-v12.0.0...revm-database-v12.1.0) - 2026-03-21
+
+### Added
+
+- add crate-level re-exports for all revm-* dependencies ([#3507](https://github.com/baoguomarshall/revm/pull/3507))
+
 ## [12.0.0](https://github.com/bluealloy/revm/compare/revm-database-v11.0.0...revm-database-v12.0.0) - 2026-03-04
 
 ### Other
